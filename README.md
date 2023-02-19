@@ -1,4 +1,4 @@
-# Face Detection Project
+# Face Detection Project :eye:
 
 
 ***Team Members***
@@ -51,6 +51,8 @@
   
 </details>
 
+***
+
 <details id=3 closed>
   <summary><h1>Using a dedicated code editor for this project</h1></summary>
   For this specific Project we would be using Visual Studio Community Release.
@@ -70,27 +72,34 @@
 
 </details>
 
+***
+
 <details id=4 closed>
   <summary><h1>How to use Github to upload and share code</h1></summary>
-  <p>
-    Once you're done with some code and wish to share it with the rest of the team :
-    
-    -  Make sure your code is nice and **packaged within a subfolder** such that you will share the folder as a whole.
-    -  Go to this repository
-    -  Click on Main and **switch to the testing branch** ![image](https://user-images.githubusercontent.com/118198968/219971226-abd463c2-783e-4d54-9e2e-03d6eefca0df.png)
 
-    -  Click on **Add File**. ![image](https://user-images.githubusercontent.com/118198968/219971261-ef2f1807-393c-4a34-b4c9-40b0c9771365.png)
+  Once you're done with some code and wish to share it with the rest of the team :
 
-    -  Click on **Upload file**
-    -  You will see this page. **ENSURE THAT THIS IS SET TO TEST**![image](https://user-images.githubusercontent.com/118198968/219971302-a58af64e-a442-4bbc-9b89-51d260ab5d46.png)
-    -  **Upload your files** either by dragging and dropping or by selecting from a list
-    -  **Be sure to add a description on the update**
-    -  click on commit changes.
+  1)  Make sure your code is nice and **packaged within a subfolder** such that you will share the folder as a whole.
+  2) Go to this repository
+  3) Click on Main and **switch to the testing branch** ![image](https://user-images.githubusercontent.com/118198968/219971226-abd463c2-783e-4d54-9e2e-03d6eefca0df.png)
 
+  4)  Click on **Add File**. ![image](https://user-images.githubusercontent.com/118198968/219971261-ef2f1807-393c-4a34-b4c9-40b0c9771365.png)
 
-  
-  </p>
+  5)  Click on **Upload file**
+  6)  You will see this page. **ENSURE THAT THIS IS SET TO TEST**![image](https://user-images.githubusercontent.com/118198968/219971302-a58af64e-a442-4bbc-9b89-51d260ab5d46.png)
+  7)  **Upload your files** either by dragging and dropping or by selecting from a list
+  8)  **Be sure to add a description on the update**
+  9)  click on commit changes.
+  10) Be sure to inform us about the changes. 
 </details>
+
+
+***
 
 # VS Install
 [Installation link](https://visualstudio.microsoft.com/vs/community/)
+
+# Open CV Install
+[Installation link](https://sourceforge.net/projects/opencvlibrary/)
+
+
