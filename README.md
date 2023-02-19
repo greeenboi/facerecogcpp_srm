@@ -20,6 +20,8 @@
   -  OpenCV library
   -  Github Global Campus programme
   
+  
+  ``` refer to miscellaneous section for access links ```
 </b>
 </details>
 
@@ -49,6 +51,46 @@
   
 </details>
 
+<details id=3 closed>
+  <summary><h1>Using a dedicated code editor for this project</h1></summary>
+  For this specific Project we would be using Visual Studio Community Release.
+  <p>
+  To Download:  
+    
+  -  navigate to the link provided below
+  -  Click on the download button on the website
+  -  Wait for the download to finish 
+  -  Run the Visual Studio Installer program
+  -  Inside, Choose The Desktop development with C++ option only ![image](https://user-images.githubusercontent.com/118198968/219970784-0bd99768-52e9-43d3-9baf-51260c0a0024.png)
+
+  -  wait till installation procedure finishes.
+  </p>
+  
+  *If there are any errors that say 'file' failed to install, Click on retry button*
+
+</details>
+
+<details id=4 closed>
+  <summary><h1>How to use Github to upload and share code</h1></summary>
+  <p>
+    Once you're done with some code and wish to share it with the rest of the team :
+    
+    -  Make sure your code is nice and **packaged within a subfolder** such that you will share the folder as a whole.
+    -  Go to this repository
+    -  Click on Main and **switch to the testing branch** ![image](https://user-images.githubusercontent.com/118198968/219971226-abd463c2-783e-4d54-9e2e-03d6eefca0df.png)
+
+    -  Click on **Add File**. ![image](https://user-images.githubusercontent.com/118198968/219971261-ef2f1807-393c-4a34-b4c9-40b0c9771365.png)
+
+    -  Click on **Upload file**
+    -  You will see this page. **ENSURE THAT THIS IS SET TO TEST**![image](https://user-images.githubusercontent.com/118198968/219971302-a58af64e-a442-4bbc-9b89-51d260ab5d46.png)
+    -  **Upload your files** either by dragging and dropping or by selecting from a list
+    -  **Be sure to add a description on the update**
+    -  click on commit changes.
+
+
+  
+  </p>
+</details>
 
 # VS Install
 [Installation link](https://visualstudio.microsoft.com/vs/community/)
