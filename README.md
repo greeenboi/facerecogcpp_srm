@@ -93,8 +93,10 @@
   10) Be sure to inform us about the changes. 
 </details>
 
-
 ***
+
+# References
+[sample code for reference](https://www.geeksforgeeks.org/opencv-c-program-face-detection/)
 
 # VS Install
 [Installation link](https://visualstudio.microsoft.com/vs/community/)
